@@ -1,5 +1,4 @@
-Développement d'une plateforme web equipé d'une admin panel pour la
-Communauté des Développeurs Marocains avec Laravel,
+Développement d'une plateforme web equipé d'une admin panel pour une communauté avec Laravel,
 Tailwind CSS 
 ![1](https://github.com/user-attachments/assets/993d766a-e6d0-4251-9013-4acd5c225c69)
 ![14](https://github.com/user-attachments/assets/19fe2b62-8c92-4920-aa04-f8a811470554)
