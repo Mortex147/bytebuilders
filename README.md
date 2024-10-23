@@ -1,6 +1,7 @@
 Développement d'une plateforme web equipé d'une admin panel pour la
 Communauté des Développeurs Marocains avec Laravel,
 Tailwind CSS 
+![1](https://github.com/user-attachments/assets/993d766a-e6d0-4251-9013-4acd5c225c69)
 ![14](https://github.com/user-attachments/assets/19fe2b62-8c92-4920-aa04-f8a811470554)
 ![13](https://github.com/user-attachments/assets/085bcda4-22f3-4834-8856-1bb6656b22db)
 ![12](https://github.com/user-attachments/assets/39dfa55f-0c38-48a1-8c2b-09660040637b)
@@ -14,5 +15,4 @@ Tailwind CSS
 ![4](https://github.com/user-attachments/assets/936f7fff-e0a7-47ed-a5c4-65c5572568a1)
 ![3](https://github.com/user-attachments/assets/7071555c-9f47-4403-890f-4ba3611fb433)
 ![2](https://github.com/user-attachments/assets/c5c8dac3-2cde-4964-9a6f-bed98c4a882a)
-![1](https://github.com/user-attachments/assets/993d766a-e6d0-4251-9013-4acd5c225c69)
 ![15](https://github.com/user-attachments/assets/94a041a9-8b69-4f61-984e-02e9ed9f14ad)
